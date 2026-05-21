@@ -579,29 +579,3 @@ deposit()
 
 root.mainloop()
 
-
-#To Do:
-#Add Undo Function that restores the previous csv file before submission
-#make the GUI look a lot nicer
-#automatic subscriptions charge?
-#add visualizations, including graphs based on location, type, dollar amount, etc, 
-#     as well as summary statistics, including total money in bank, etc.
-    #Summary Statistics:
-        #Most spent location in "other" and "enterntainment" categories
-        #most spent items in non-obligatory categories ( not rent, utilities, investments)
-        #some method that tracks changes in spening habits over time
-#add type: cash, credit, debit
-
-#ANALYZE CATEGORIES WHOSE LIMITS ARE EXCEEDED, FIND OUT WHY
-
-
-#class DateBox(tk.Entry):
-#    #Datebox class: 
-#        #MM/DD/YYYY Format
-#        #overwriteable text
-#        #immutable slashes
-#
-#    def __init__(self):
-#        self.positions=[0,1,3,4,6,7,8,9]
-#        self.slashes = {2:'/',5:'/'}
-#        self.bind("<Backspace>", lambda e: "break")
