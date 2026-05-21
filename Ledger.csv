@@ -1,0 +1,47 @@
+Interaction Type,Source,Amount,Name,Category,Date
+Balance,,11097.27,,,1900-01-01 00:00:00.000000
+Limit,,875.0,,Rent,1900-01-01 00:00:00.000000
+Limit,,100.0,,Gas,1900-01-01 00:00:00.000000
+Limit,,400.0,,Groceries,1900-01-01 00:00:00.000000
+Limit,,65.0,,Utilities,1900-01-01 00:00:00.000000
+Limit,,60.0,,Entertainment,1900-01-01 00:00:00.000000
+Limit,,60.0,,Food,1900-01-01 00:00:00.000000
+Limit,,60.0,,Other,1900-01-01 00:00:00.000000
+Limit,,500.0,,Investments,1900-01-01 00:00:00.000000
+Limit,,17330.0,,Total Limit,1900-01-01 00:00:00.000000
+Withdrawal,trader joes,1.0,pasta,Groceries,2025-10-27 12:51:03.806144
+Withdrawal,trader joes,3.0,cheese,Groceries,2025-10-27 12:51:03.808138
+Withdrawal,trader joes,3.5,pomegranate,Groceries,2025-10-27 12:51:03.826156
+Withdrawal,trader joes,49.99,caviar,Groceries,2025-10-27 12:51:03.828151
+Withdrawal,trader joes,2.0,milk,Groceries,2025-10-27 12:51:03.829148
+Withdrawal,Costco,5.29,Cheese,Groceries,2025-10-27 13:35:36.961378
+Withdrawal,Costco,59.07,Gasoline,Gas,2025-10-27 13:35:36.963407
+Withdrawal,Costco,14.99,bbq sauce,Groceries,2025-10-27 13:35:36.966396
+Withdrawal,Landlord,875.0,Rent,Rent,2025-10-27 13:35:56.527927
+Withdrawal,Spectrum,15.0,Internet,Utilities,2025-10-27 13:36:09.117687
+Withdrawal,Movies,95.0,Minecraft Movie,Entertainment,2025-10-27 13:48:31.495691
+Deposit,pay,1650.0,Some Money,Bank Transfer,2025-10-29 00:00:00.000000
+Withdrawal,Yo Mama,15.9,Chicken Parmesan,Food,2025-10-30 12:24:51.405686
+Withdrawal,Yo Mama,0.99,Banana,Food,2025-10-29 00:00:00.000000
+Withdrawal,Vons,3.99,Pretzels,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,5.99,Sourdough,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,1.99,Pizza sauce,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,3.46,Tax,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,14.59,Olive oil,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,12.1,Chicken shawarma,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Vons,22.45,Beer,Groceries,2025-10-09 00:00:00.000000
+Withdrawal,Costco,59.06,Gas,Gas,2025-10-16 00:00:00.000000
+Withdrawal,Costco,4.99,Rotisserie chicken,Groceries,2025-10-16 00:00:00.000000
+Withdrawal,Costco,4.99,Spinach,Groceries,2025-10-16 00:00:00.000000
+Withdrawal,Costco,1.99,Bananas,Groceries,2025-10-16 00:00:00.000000
+Withdrawal,Costco,9.99,Chicken tenders,Groceries,2025-10-16 00:00:00.000000
+Withdrawal,Costco,1.5,Hotdog,Food,2025-10-16 00:00:00.000000
+Withdrawal,Costco,3.99,Chicken bake,Food,2025-10-16 00:00:00.000000
+Withdrawal,Costco,2.99,Parfait,Food,2025-10-16 00:00:00.000000
+Withdrawal,Amazon,18.95,Neoprene boots,Other,2025-10-04 00:00:00.000000
+Withdrawal,Amazon,10.21,Dive belt,Other,2025-10-04 00:00:00.000000
+Withdrawal,Amazon,35.99,Dive bag,Other,2025-10-04 00:00:00.000000
+Withdrawal,Amazon,8.92,Tax,Other,2025-10-04 00:00:00.000000
+Withdrawal,Shake Shack,13.45,Chicken sandwiches,Food,2025-10-29 00:00:00.000000
+Withdrawal,SDGE,59.41,Gas and electric,Utilities,2025-10-01 00:00:00.000000
+Withdrawal,Balboa Haunted Trail,40.0,Haunted trail,Entertainment,2025-10-07 00:00:00.000000
